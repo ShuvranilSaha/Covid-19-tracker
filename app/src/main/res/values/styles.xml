@@ -19,8 +19,8 @@
     <style name="LastUpdatedTime">
         <item name="android:layout_gravity">center</item>
         <item name="android:textStyle">italic</item>
-        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Overline
-        </item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Overline</item>
+        <item name="android:textColor">@color/colorAccent</item>
     </style>
 
     <style name="ImageIcon">
@@ -31,12 +31,20 @@
     <style name="TextCount">
         <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Headline5
         </item>
-        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textColor">@android:color/black</item>
         <item name="android:textStyle">bold</item>
         <item name="android:layout_gravity">center</item>
     </style>
 
     <style name="CountSmall">
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Subtitle2
+        </item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+
+    <style name="TextCountSmall">
         <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Subtitle2
         </item>
         <item name="android:textStyle">bold</item>

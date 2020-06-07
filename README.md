@@ -19,6 +19,13 @@ The purpose of the application is to show the overall stats of the coronavirus o
  - [Connecting to the internet](https://codelabs.developers.google.com/codelabs/kotlin-android-training-internet-data/index.html?index=../..android-kotlin-fundamentals#0)
  - [Repository](https://codelabs.developers.google.com/codelabs/kotlin-android-training-repository/index.html?index=../..android-kotlin-fundamentals#0)
  - [Data Binding](https://codelabs.developers.google.com/codelabs/kotlin-android-training-linear-layout/index.html?index=../..android-kotlin-fundamentals#0)
+ 
+ 
+**Dependency Injection used**
+ 
+  - [Retroft](https://square.github.io/retrofit/)
+  - [Koin](https://insert-koin.io/)
+  - [Moshi](https://github.com/square/moshi)
   
 [**APK to download**](https://github.com/ShuvranilSaha/Covid-19-tracker/blob/master/app-debug.apk?raw=true)
 
